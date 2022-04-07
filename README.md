@@ -1,6 +1,6 @@
 # Cotacao moedas
  
-Código projetado utilizando a API do <a href=https://docs.awesomeapi.com.br/ target= _blank> Awesome APIS </a>
+Código projetado utilizando a API do <a href=https://docs.awesomeapi.com.br/ target="_blank"> Awesome APIS </a>
 
 Cotação atual de compra e venda, máxima e mínima diária
 
